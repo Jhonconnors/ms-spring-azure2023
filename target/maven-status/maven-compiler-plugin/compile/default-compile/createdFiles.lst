@@ -1,0 +1,8 @@
+com\curd\card\model\ServiceResponse.class
+com\curd\card\repository\CardRepositoryImpl.class
+com\curd\card\MsCardApplication.class
+com\curd\card\service\CardServiceImpl.class
+com\curd\card\controller\CardController.class
+com\curd\card\repository\ICardRepository.class
+com\curd\card\service\ICardService.class
+com\curd\card\model\Card.class
